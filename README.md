@@ -44,4 +44,4 @@ docker compose exec backend cp -r /app/collected_static/. /backend_static/static
 # через терменал backend-контейнера в десктоп-приложении Docker
 ```
 ## Над проектом работал:
-Беликов Тимур
+Багний Олег
